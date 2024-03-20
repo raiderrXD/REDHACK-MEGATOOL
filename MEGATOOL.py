@@ -71,8 +71,7 @@ elif oo == '6':
 	os.system ("git clone https://github.com/TheAlfa31/ProxyChecker")
 	os.system("pip install -r requirements.txt")
 	os.system("python3 main.py")
-elif oo == '7':
-	os.system ("cd $HOME")
+elif oo = '7':
 	os.system ("git clone https://github.com/raiderrXD/RedHack-sms/")
 	os.system ("cd RedHack-sms")
 	os.system("pip3 install -r requirements.txt")
