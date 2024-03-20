@@ -15,6 +15,7 @@
 git clone https://github.com/raiderrXD/REDHACK-MEGATOOL/
 cd REDHACK-MEGATOOL
 chmod +x *
+python kurulum.py
 python MEGATOOL.py
 ```
 
